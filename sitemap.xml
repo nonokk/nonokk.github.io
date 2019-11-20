@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/categories/math/</loc>
+    <loc>https://www.nonokk.com/tags/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/tags/math/</loc>
+    <loc>https://www.nonokk.com/categories/math/</loc>
     <lastmod>2019-03-05T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -177,14 +177,14 @@
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/categories/english/</loc>
+    <loc>https://www.nonokk.com/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/tags/english/</loc>
+    <loc>https://www.nonokk.com/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -247,14 +247,14 @@
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/tags/golang/</loc>
+    <loc>https://www.nonokk.com/categories/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/categories/golang/</loc>
+    <loc>https://www.nonokk.com/tags/golang/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -310,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/categories/syntax-highlighting/</loc>
+    <loc>https://www.nonokk.com/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://www.nonokk.com/tags/syntax-highlighting/</loc>
+    <loc>https://www.nonokk.com/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
