@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>https://www.nonokk.com/categories/</link>
+    <link>http://www.nonokk.cn/categories/</link>
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
     
-	<atom:link href="https://www.nonokk.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.nonokk.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>docs</title>
-      <link>https://www.nonokk.com/categories/docs/</link>
+      <link>http://www.nonokk.cn/categories/docs/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/docs/</guid>
+      <guid>http://www.nonokk.cn/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>https://www.nonokk.com/categories/index/</link>
+      <link>http://www.nonokk.cn/categories/index/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/index/</guid>
+      <guid>http://www.nonokk.cn/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>https://www.nonokk.com/categories/math/</link>
+      <link>http://www.nonokk.cn/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/math/</guid>
+      <guid>http://www.nonokk.cn/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>https://www.nonokk.com/categories/shortcodes/</link>
+      <link>http://www.nonokk.cn/categories/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/shortcodes/</guid>
+      <guid>http://www.nonokk.cn/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://www.nonokk.com/categories/english/</link>
+      <link>http://www.nonokk.cn/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/english/</guid>
+      <guid>http://www.nonokk.cn/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://www.nonokk.com/categories/test/</link>
+      <link>http://www.nonokk.cn/categories/test/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/test/</guid>
+      <guid>http://www.nonokk.cn/categories/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://www.nonokk.com/categories/development/</link>
+      <link>http://www.nonokk.cn/categories/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nonokk.com/categories/development/</guid>
+      <guid>http://www.nonokk.cn/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://www.nonokk.com/categories/golang/</link>
+      <link>http://www.nonokk.cn/categories/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.nonokk.com/categories/golang/</guid>
+      <guid>http://www.nonokk.cn/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://www.nonokk.com/categories/syntax-highlighting/</link>
+      <link>http://www.nonokk.cn/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.com/categories/syntax-highlighting/</guid>
+      <guid>http://www.nonokk.cn/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     

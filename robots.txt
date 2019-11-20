@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.nonokk.com/sitemap.xml
+Sitemap: http://www.nonokk.cn/sitemap.xml
