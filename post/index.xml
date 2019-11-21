@@ -1,177 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jane - A super concise theme for Hugo</title>
+    <title>Posts on nonokk - A simple blog </title>
     <link>https://www.nonokk.cn/post/</link>
-    <description>Recent content in Posts on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in Posts on nonokk - A simple blog </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 22:01:13 +0800</lastBuildDate>
     
 	<atom:link href="https://www.nonokk.cn/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jane 主题预览</title>
-      <link>https://www.nonokk.cn/post/jane-theme-preview.zh-cn/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <title>李叔同：从风流高富帅到空门高僧</title>
+      <link>https://www.nonokk.cn/post/%E6%9D%8E%E5%8F%94%E5%90%8C%E4%BB%8E%E9%A3%8E%E6%B5%81%E9%AB%98%E5%AF%8C%E5%B8%85%E5%88%B0%E7%A9%BA%E9%97%A8%E9%AB%98%E5%83%A7/</link>
+      <pubDate>Thu, 21 Nov 2019 22:01:13 +0800</pubDate>
       
-      <guid>https://www.nonokk.cn/post/jane-theme-preview.zh-cn/</guid>
-      <description>主题预览,内容有待填充。</description>
-    </item>
-    
-    <item>
-      <title>Jane Theme Preview</title>
-      <link>https://www.nonokk.cn/post/jane-theme-preview/</link>
-      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/jane-theme-preview/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Markdown&lt;/strong&gt; is created by &lt;a href=&#34;http://daringfireball.net/&#34;&gt;Daring Fireball&lt;/a&gt;, the original guideline is &lt;a href=&#34;http://daringfireball.net/projects/markdown/syntax&#34;&gt;here&lt;/a&gt;. Its syntax, however, varies between different parsers or editors.&lt;/p&gt;
+      <guid>https://www.nonokk.cn/post/%E6%9D%8E%E5%8F%94%E5%90%8C%E4%BB%8E%E9%A3%8E%E6%B5%81%E9%AB%98%E5%AF%8C%E5%B8%85%E5%88%B0%E7%A9%BA%E9%97%A8%E9%AB%98%E5%83%A7/</guid>
+      <description>&lt;p&gt;张爱玲曾经说过，不要认为我是个高傲的人，我从来不是的，至少在弘一法师寺院围墙的外面，我是如此地谦卑。&lt;/p&gt;
 
-&lt;p&gt;Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.&lt;/p&gt;</description>
+&lt;p&gt;弘一法师，在俗时的名字叫李叔同，青年时是一个进出名场、潇洒无羁的风流才子，后半生成为芒鞋布衲、苦修律宗的空门高僧。他被林语堂誉为那个时代最有才华的天才之一，也因为其剧变的人生轨迹，而被世人视作是一个传奇。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Math Preview</title>
-      <link>https://www.nonokk.cn/post/math-preview/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      <title>南怀瑾：先天一炁从虚无中来</title>
+      <link>https://www.nonokk.cn/post/%E5%8D%97%E6%80%80%E7%91%BE%E5%85%88%E5%A4%A9%E4%B8%80%E7%82%81%E4%BB%8E%E8%99%9A%E6%97%A0%E4%B8%AD/</link>
+      <pubDate>Thu, 21 Nov 2019 21:59:47 +0800</pubDate>
       
-      <guid>https://www.nonokk.cn/post/math-preview/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.intmath.com/cg5/katex-mathjax-comparison.php&#34;&gt;KaTeX and MathJax Comparison Demo, currently processed as KaTex&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://www.nonokk.cn/post/%E5%8D%97%E6%80%80%E7%91%BE%E5%85%88%E5%A4%A9%E4%B8%80%E7%82%81%E4%BB%8E%E8%99%9A%E6%97%A0%E4%B8%AD/</guid>
+      <description>“上善若水，清而无瑕。道之形象，真一难图。变而分布，各自独居。”这里是引用老子的话“上善若水”，这句话包含体、用两方面；包含做人的行为，也同</description>
     </item>
     
     <item>
-      <title>Shortcodes Preview</title>
+      <title>《六祖坛经》的人生三境</title>
+      <link>https://www.nonokk.cn/post/liuzhu-renshengsanjing/</link>
+      <pubDate>Thu, 21 Nov 2019 21:47:55 +0800</pubDate>
+      
+      <guid>https://www.nonokk.cn/post/liuzhu-renshengsanjing/</guid>
+      <description>&lt;p&gt;说到《六祖坛经》大家都很熟悉，有敦煌本、惠昕本、曹溪原本和宗宝本四个版本，虽然内容稍有差异，但是主旨基本相同。作为中国佛教史上唯一一部被称为经的祖师语录集，《六祖坛经》有着特殊的价值和意义。翻开《坛经》，其中精美绝伦的语言、生动活泼的譬喻、玄妙深奥的机锋、心领神会的对话……无一不让我们为之叹美、折服。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>国学大师叶曼学佛实证经历</title>
       <link>https://www.nonokk.cn/post/shortcodes-preview/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://www.nonokk.cn/post/shortcodes-preview/</guid>
-      <description>&lt;h2 id=&#34;what-a-shortcode-is&#34;&gt;What a Shortcode is&lt;/h2&gt;
-
-&lt;p&gt;Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video &lt;code&gt;&amp;lt;iframes&amp;gt;&lt;/code&gt;) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&amp;rsquo;s syntax.&lt;/p&gt;
-
-&lt;p&gt;Hugo created &lt;strong&gt;shortcodes&lt;/strong&gt; to circumvent these limitations.&lt;/p&gt;
-
-&lt;p&gt;A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.&lt;/p&gt;
-
-&lt;p&gt;In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.&lt;/p&gt;
-
-&lt;p&gt;More details: &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;&gt;https://gohugo.io/content-management/shortcodes/&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;叶曼女士（美籍华人）是当今世界极少将儒、道、佛文化融会贯通的国学大师之一，曾受胡适、三毛等众多名家推崇。本名刘世纶，原籍湖南湘阴，1914年生，北大毕业，曾任辅仁大学哲学系副教授。起初她对佛教非常反感，认为它只是士大夫阶级的另外一种消遣品。后来作为大使夫人辗转于美国、日本、菲律宾、澳大利亚、沙特阿拉伯等地，接触过基督教、伊斯兰教，也研学了佛教、道家、儒家多年，对东西方文化、哲学和宗教有独到的见解。最终，叶曼为明了生死而皈依佛门学佛，亲证佛法之神奇。她在上世纪80年代曾独自募款重建北京云居寺，与国家主管宗教的领导关系熟稔，还担任世界佛教联谊会副会长，至今还以近百岁之身在各地奔走讲演……&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Image Preview</title>
-      <link>https://www.nonokk.cn/post/image-preview/</link>
-      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/image-preview/</guid>
-      <description>&lt;p&gt;Thanks for &lt;a href=&#34;https://github.com/liwenyip/hugo-easy-gallery&#34;&gt;liwenyip/hugo-easy-gallery&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane/pull/48&#34;&gt;Zebradil · Pull Request #48&lt;/a&gt; .&lt;/p&gt;
-
-&lt;p&gt;Now, we could use &lt;code&gt;{{&amp;lt; gallery &amp;gt;}}&lt;/code&gt; shortcode in hugo-theme-jane.&lt;/p&gt;
-
-&lt;h2 id=&#34;normal-image&#34;&gt;Normal Image&lt;/h2&gt;
-
-&lt;p&gt;This is an image in &lt;code&gt;static/image&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;![This is an image in `static/image` folder.](/image/example.jpg)
-&lt;/code&gt;&lt;/pre&gt;</description>
-    </item>
-    
-    <item>
-      <title>Shortcodes Notice Preview</title>
+      <title>何为修行？为何修行？</title>
       <link>https://www.nonokk.cn/post/shortcode-notice/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://www.nonokk.cn/post/shortcode-notice/</guid>
-      <description>normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: note A notice disclaimer You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip {{% notice tip %}} A tip disclaimer {{% /tip %}} tip A tip disclaimer info {{% notice info %}} A info disclaimer {{% /notice %}} info An information</description>
+      <description>&lt;p&gt;时下谈修行似已蔚然成风，其实大多数人可能还是不甚了了，以为打坐、磕头、念经、持咒、拜山、参加各种法会禅修班灵修班辟谷班就是修行了，这些顶多算准备运动或辅助运动而已。
+修行是佛家用语，道家讲修炼，儒家谈修身。三家虽路径相异，各有侧重，方向却是同一，并且均包含身、心、灵三个层面。
+何谓＂修行＂？修者，修正、修复、修炼是也。行者，践行是也。修行者，持续不断地通过各种方法修正自己的身体、心念、语言、行为，培养正气、正念、正见是也。
+我们所为何来？为认知生命和改善生命而来。 故修行是人生的根本头等大事，是改善生命改变命运的唯一通途。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jane-Theme Footnote Preview</title>
-      <link>https://www.nonokk.cn/post/doc-footnote-preview/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/doc-footnote-preview/</guid>
-      <description>&lt;p&gt;Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:example&#34;&gt;&lt;a href=&#34;#fn:example&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; , footnote content will be displayed.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>English Creating a New Theme</title>
-      <link>https://www.nonokk.cn/post/english-preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/english-preview/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>This is a very long title This is a very long title This is a very long title This is a very long title This is a very long title</title>
+      <title>南怀瑾老师：什么是“浩然之气”？</title>
       <link>https://www.nonokk.cn/post/this-is-a-very-long-title/</link>
       <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>https://www.nonokk.cn/post/this-is-a-very-long-title/</guid>
-      <description>This is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long titleThis is a very long title</description>
+      <description>&lt;p&gt;【“敢问夫子恶乎长？ ”】&lt;/p&gt;
+
+&lt;p&gt;【曰：“我知言，我善养吾浩然之气。”】&lt;/p&gt;
+
+&lt;p&gt;【“敢问：何谓浩然之气？”】&lt;/p&gt;
+
+&lt;p&gt;【曰：“难言也。其为气也，至大至刚，以直养而无害，则塞于天地之间。其为气也，配义与道；无是，馁也。是集义所生者，非义袭而取之也；行有不慊于心，则馁矣。我故曰：告子未尝知义，以其外之也。”】&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://www.nonokk.cn/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://www.nonokk.cn/post/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://www.nonokk.cn/post/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://www.nonokk.cn/post/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/post/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
+      <title>王阳明：圣人之道，吾性自足，不假外求</title>
       <link>https://www.nonokk.cn/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
       <guid>https://www.nonokk.cn/post/syntax-highlighting/</guid>
-      <description>&lt;p&gt;More detail: &lt;a href=&#34;https://gohugo.io/content-management/syntax-highlighting/&#34;&gt;Syntax Highlighting | Hugo&lt;/a&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
-  alert(&amp;quot;Hello, World!&amp;quot;)
-}
-&lt;/code&gt;&lt;/pre&gt;</description>
+      <description>&lt;p&gt;在中国历史上，有这么一个说法：“立德立功立言”的完人有“两个半”，王阳明是其中一个，另一个是诸葛亮，还有半个完人是曾国藩。&lt;br /&gt;
+王阳明在日本、新加坡、韩国被视为圣人，尤其是日本人把王的“心学”视为经世治国之学。其智慧值得我们每一个人去学习和感悟。&lt;/p&gt;</description>
     </item>
     
   </channel>

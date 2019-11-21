@@ -1,94 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jane - A super concise theme for Hugo</title>
+    <title>Categories on nonokk - A simple blog </title>
     <link>https://www.nonokk.cn/categories/</link>
-    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <description>Recent content in Categories on nonokk - A simple blog </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Mar 2018 16:01:23 +0800</lastBuildDate>
     
 	<atom:link href="https://www.nonokk.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>docs</title>
-      <link>https://www.nonokk.cn/categories/docs/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      <title>经历</title>
+      <link>https://www.nonokk.cn/categories/%E7%BB%8F%E5%8E%86/</link>
+      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.cn/categories/docs/</guid>
+      <guid>https://www.nonokk.cn/categories/%E7%BB%8F%E5%8E%86/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>index</title>
-      <link>https://www.nonokk.cn/categories/index/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
+      <title>杂说</title>
+      <link>https://www.nonokk.cn/categories/%E6%9D%82%E8%AF%B4/</link>
+      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://www.nonokk.cn/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://www.nonokk.cn/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://www.nonokk.cn/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://www.nonokk.cn/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://www.nonokk.cn/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>https://www.nonokk.cn/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://www.nonokk.cn/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://www.nonokk.cn/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.nonokk.cn/categories/syntax-highlighting/</guid>
+      <guid>https://www.nonokk.cn/categories/%E6%9D%82%E8%AF%B4/</guid>
       <description></description>
     </item>
     
